@@ -1,0 +1,57 @@
+HTML :
+iframe
+Semantic Tags 
+ 
+ CSS : 
+pesude slector 
+Box Modal
+position realtive , Absulte , sticky , Fixed
+
+!important in css
+
+why we use flex box and gird ?
+
+JavaScript :
+ 
+ 1: Var , Let , Const 
+   
+ 2: Local Scope And Global Scope.
+  
+ 3: Null , Undefined 
+    Array Methods
+ 4: Pop, Push , Shift , UnShift 
+
+
+     lose Equilty and Strick :
+ 5 : == And === 
+    
+     object :
+
+ 6 : How TO Access The Value of object explain both Methods 
+
+     For Array : 
+ 7 : For Each and for off
+     For object 
+ 8 : For In 
+
+ 9 : Map , Filter , Reduce 
+
+ 10 : Call Back & What is call Back Hell
+ 11 : Promises in js 
+ 12 : Async Code & Sync code 
+ 13 : Async And Await in js 
+ 14 : DOM (Docement Object Modal)
+ 15 : Slecting Element 
+   1.BytagName 
+   2.ByClassName 
+   3.ByIdName 
+   3.Qurey slector
+ 
+  
+
+
+
+
+ 
+ 
+
